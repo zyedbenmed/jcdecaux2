@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">jcdecaux</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="api_key">36c36d80c9c7741357a61447242407d004b38e58</string>
+</resources>
